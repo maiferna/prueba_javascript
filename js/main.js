@@ -1,5 +1,3 @@
-// Comentar qué variables hemos utilizado, por qué, etc
-
 
 // Ejercicio 1: Devolver caracteres en mayúsculas y separados por espacios.
 
