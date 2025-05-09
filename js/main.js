@@ -1,0 +1,1 @@
+// Comentar qué variables hemos utilizado, por qué, etc
